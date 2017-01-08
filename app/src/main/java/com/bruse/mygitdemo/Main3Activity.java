@@ -8,7 +8,7 @@ public class Main3Activity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        //ss
+        //ss尺寸
         setContentView(R.layout.activity_main3);
     }
 }
