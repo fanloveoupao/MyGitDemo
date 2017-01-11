@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         startActivity(new Intent(MainActivity.this, Main5Activity.class));
-        //tijiao genzi
+        //分支问题
     }
 }
