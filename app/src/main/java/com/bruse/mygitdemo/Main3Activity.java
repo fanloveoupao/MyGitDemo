@@ -11,7 +11,7 @@ public class Main3Activity extends AppCompatActivity {
         //ss尺寸
         setContentView(R.layout.activity_main3);
         /**
-         * 继续更改
+         * 继续更sd改
          * */
     }
 }
